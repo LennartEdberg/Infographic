@@ -25,7 +25,7 @@ body {
     background-color: #202832;
     color: #fff;
     text-align: center;
-    font-size: 50px;
+    font-size: 0px;
     line-height: 195px;
 }
 
@@ -47,32 +47,32 @@ body {
 
 #line-container > .line-one {
     width: 100%;
-    height: 150px;
+    height: 0px;
     background-color: #19B5FE;
 }
 #line-container > .line-two {
     width: 100%;
-    height: 250px;
+    height: 0px;
     background-color: #36D7B7;
 }
 #line-container > .line-three {
     width: 100%;
-    height: 150px;
+    height: 0px;
     background-color: #D35400;
 }
 #line-container > .line-four {
     width: 100%;
-    height: 250px;
+    height: 0px;
     background-color: #ECF0F1;
 }
 #line-container > .line-five {
     width: 100%;
-    height: 150px;
+    height: 0px;
     background-color: #F89406;
 }
 #line-container > .line-six {
     width: 100%;
-    height: 250px;
+    height: 0px;
     background-color: #36D7B7;
 }
 
@@ -91,6 +91,7 @@ body {
 	border-top: 7px solid transparent;
 	border-bottom: 7px solid transparent;
 	border-left: 7px solid #36D7B7;
+    display: none;
 }
 
 .arrow-left-blue {
@@ -103,6 +104,7 @@ body {
 	border-top: 7px solid transparent;
 	border-bottom: 7px solid transparent;
 	border-right: 7px solid #19B5FE;
+    display: none;
 }
 
 .arrow-left-red {
@@ -115,6 +117,7 @@ body {
 	border-top: 7px solid transparent;
 	border-bottom: 7px solid transparent;
 	border-right: 7px solid #D35400;
+    display: none;
 }
 
 .arrow-right-white {
@@ -127,6 +130,7 @@ body {
 	border-top: 7px solid transparent;
 	border-bottom: 7px solid transparent;
 	border-left: 7px solid #ECF0F1;
+    display: none;
 }
 
 .arrow-left-orange {
@@ -139,6 +143,7 @@ body {
 	border-top: 7px solid transparent;
 	border-bottom: 7px solid transparent;
 	border-right: 7px solid #F89406;
+    display: none;
 }
 
 .arrow-right-ligthgreen {
@@ -151,5 +156,6 @@ body {
 	border-top: 7px solid transparent;
 	border-bottom: 7px solid transparent;
 	border-left: 7px solid #36D7B7;
+    display: none;
 }
 
