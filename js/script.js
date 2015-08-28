@@ -41,4 +41,28 @@ $(window).load(function (){
         height: '250px',
         width: '100%'}, 1000);
     $('.arrow-right-ligthgreen').delay(2750).fadeIn(1200)
+    
 });
+
+
+
+// CIRKLAR BLIR STÖRRE VID HOVER *******************
+
+
+$(function() {
+    $('span').on('mouseover', function() {
+        $(this).stop().animate({
+            'border-width': 180,
+            'border-radius': 180,
+            'margin-left': 150
+        }, 500);
+    });
+    
+    $('span').on('mouseout', function() {
+        $(this).stop().animate({
+            'border-width': 70,
+            'border-radius': 70,
+            'margin-left': 290
+        }, 500);
+    });
+})
