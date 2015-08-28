@@ -40,8 +40,9 @@ $(window).load(function (){
     $('.line-six').delay(2750).animate({
         height: '250px',
         width: '100%'}, 1000);
-    $('.arrow-right-ligthgreen').delay(2750).fadeIn(1200)
+    $('.arrow-right-pink').delay(2750).fadeIn(1200)
     
+    $('.circle-blue').delay(350).fadeIn(1200)
 });
 
 
