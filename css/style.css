@@ -165,62 +165,62 @@ body {
 
 .circle-blue {
     position: absolute;
-    width: 0;
-    height: 0;
+    width: 150px;
+    height: 150px;
     top: 245px;
     float: left;
+    background-color: #19B5FE;
     margin-left: 290px;
-    border-radius: 70px;
-    border: 70px solid #19B5FE;
+    border-radius: 200px;
     display: block;
 }
 .circle-green {
     position: absolute;
-    width: 0;
-    height: 0;
+    width: 150px;
+    height: 150px;
     top: 435px;
+    background-color: #36D7B7;
     margin-left: 650px;
-    border-radius: 70px;
-    border: 70px solid #36D7B7;
+    border-radius: 200px;
     display: block;
 }
 .circle-red {
     position: absolute;
-    width: 0;
-    height: 0;
+    width: 150px;
+    height: 150px;
     top: 640px;
+    background-color: #D35400;
     margin-left: 290px;
-    border-radius: 70px;
-    border: 70px solid #D35400;
+    border-radius: 200px;
     display: block;
 }
 .circle-white {
     position: absolute;
-    width: 0;
-    height: 0;
+    width: 150px;
+    height: 150px;
     top: 840px;
+    background-color: #ECF0F1;
     margin-left: 650px;
-    border-radius: 70px;
-    border: 70px solid #ECF0F1;
+    border-radius: 200px;
     display: block;
 }
 .circle-orange {
     position: absolute;
-    width: 0;
-    height: 0;
-    border-radius: 70px;
+    width: 150px;
+    height: 150px;
+    background-color: #F89406;
+    border-radius: 200px;
     top: 1040px;
     margin-left: 290px;
-    border: 70px solid #F89406;
     display: block;
 }
 .circle-pink {
     position: absolute;
-    width: 0;
-    height: 0;
+    width: 150px;
+    height: 150px;
+    background-color: #E08283;
     margin-left: 650px;
     top: 1240px;
-    border-radius: 70px;
-    border: 70px solid #E08283;
+    border-radius: 200px;
     display: block;
 }

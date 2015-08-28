@@ -53,16 +53,16 @@ $(window).load(function (){
 $(function() {
     $('span').on('mouseover', function() {
         $(this).stop().animate({
-            'border-width': 180,
-            'border-radius': 180,
+            'width': 300,
+            'height': 300,
             'margin-left': 150
         }, 500);
     });
     
     $('span').on('mouseout', function() {
         $(this).stop().animate({
-            'border-width': 70,
-            'border-radius': 70,
+            'width': 150,
+            'height': 150,
             'margin-left': 290
         }, 500);
     });
