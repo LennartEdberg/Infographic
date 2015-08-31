@@ -2,7 +2,7 @@ body {
     background-color: #202832;
     text-rendering: optimizeLegibility;
     font-family: 'Pacifico', cursive;
-    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+
     overflow: -moz-scrollbars-none;
 }
 
@@ -27,6 +27,7 @@ body {
     font-size: 0px;
     line-height: 195px;
     font-family: 'Pacifico', cursive;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
 }
 
 #container > #line-container {
@@ -58,7 +59,7 @@ body {
 #line-container > .line-three {
     width: 100%;
     height: 0px;
-    background-color: #D35400;
+    background-color: #cc6825;
 }
 #line-container > .line-four {
     width: 100%;
@@ -116,7 +117,7 @@ body {
     position: relative;
 	border-top: 7px solid transparent;
 	border-bottom: 7px solid transparent;
-	border-right: 7px solid #D35400;
+	border-right: 7px solid #cc6825;
     display: none;
 }
 
@@ -220,7 +221,7 @@ body {
     width: 0px;
     height: 0px;
     top: 640px;
-    background-color: #D35400;
+    background-color: #cc6825;
     margin-left: 290px;
     border-radius: 200px;
     display: block;
