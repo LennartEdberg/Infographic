@@ -165,8 +165,8 @@ body {
 
 .circle-blue {
     position: absolute;
-    width: 150px;
-    height: 150px;
+    width: 0px;
+    height: 0px;
     top: 245px;
     float: left;
     background-color: #19B5FE;
@@ -190,8 +190,8 @@ body {
 
 .circle-green {
     position: absolute;
-    width: 150px;
-    height: 150px;
+    width: 0px;
+    height: 0px;
     top: 435px;
     background-color: #36D7B7;
     margin-left: 650px;
@@ -215,8 +215,8 @@ body {
 
 .circle-red {
     position: absolute;
-    width: 150px;
-    height: 150px;
+    width: 0px;
+    height: 0px;
     top: 640px;
     background-color: #D35400;
     margin-left: 290px;
@@ -239,8 +239,8 @@ body {
 
 .circle-white {
     position: absolute;
-    width: 150px;
-    height: 150px;
+    width: 0px;
+    height: 0px;
     top: 840px;
     background-color: #ECF0F1;
     margin-left: 650px;
@@ -263,8 +263,8 @@ body {
 
 .circle-orange {
     position: absolute;
-    width: 150px;
-    height: 150px;
+    width: 0px;
+    height: 0px;
     background-color: #F89406;
     border-radius: 200px;
     top: 1040px;
@@ -287,8 +287,8 @@ body {
 
 .circle-pink {
     position: absolute;
-    width: 150px;
-    height: 150px;
+    width: 0px;
+    height: 0px;
     background-color: #E08283;
     margin-left: 650px;
     top: 1240px;
