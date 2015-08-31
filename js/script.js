@@ -16,6 +16,10 @@ $(window).load(function (){
     height:'150px',
     width:'150px'}, 1000);
 
+    //Text1
+    $('.blue-circle-text').delay(1450).animate({
+    'font-size':'16px'}, 400);
+
     //Andra linjen
     $('.line-two').delay(750).animate({
         height: '250px',
@@ -26,6 +30,10 @@ $(window).load(function (){
     $('.circle-green').delay(700).animate({
     height:'150px',
     width:'150px'}, 1000);
+
+    //Text2
+    $('.green-circle-text').delay(1800).animate({
+    'font-size':'16px'}, 400);
 
     //Tredje linjen
     $('.line-three').delay(1250).animate({
@@ -38,6 +46,10 @@ $(window).load(function (){
     height:'150px',
     width:'150px'}, 1000);
 
+    //Text3
+    $('.red-circle-text').delay(2300).animate({
+    'font-size':'16px'}, 400);
+
     //Fjärde linjen
     $('.line-four').delay(1750).animate({
         height: '250px',
@@ -48,6 +60,10 @@ $(window).load(function (){
     $('.circle-white').delay(1750).animate({
     height:'150px',
     width:'150px'}, 1000);
+
+    //Text4
+    $('.white-circle-text').delay(2850).animate({
+    'font-size':'16px'}, 400);
 
     //Femte linjen
     $('.line-five').delay(2250).animate({
@@ -60,6 +76,10 @@ $(window).load(function (){
     height:'150px',
     width:'150px'}, 1000);
 
+    //Text5
+    $('.orange-circle-text').delay(3300).animate({
+    'font-size':'16px'}, 400);
+
     //Sjätte linjen
     $('.line-six').delay(2750).animate({
         height: '250px',
@@ -70,4 +90,8 @@ $(window).load(function (){
     $('.circle-pink').delay(2750).animate({
     height:'150px',
     width:'150px'}, 1000);
+
+    //Text6
+    $('.pink-circle-text').delay(3800).animate({
+    'font-size':'16px'}, 400);
 });
