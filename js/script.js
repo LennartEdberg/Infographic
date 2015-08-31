@@ -88,6 +88,14 @@ $(window).load(function (){
 
     //Text6
     $('.pink-circle-text').delay(3900).fadeIn(600)
+
+    //FLAT ICONS
+    $(".flat-icon").flatshadow({
+color: "#3498DB",
+        angle: "SE",
+            fade: false,
+        boxShadow: false
+});
 });
 
 
