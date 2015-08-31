@@ -179,14 +179,6 @@ body {
 	-ms-transition:     all 0.5s ease-in-out;
 }
 
-.blue-circle-text
-{
-    line-height: 16px;
-        color: #dddddd;
-    font-weight: bold;
-    font-size: 16px;
-}
-
 .circle-blue:hover
 {
      -webkit-transform: scale(2);
@@ -316,3 +308,75 @@ body {
     -ms-transform: scale(2);
     transform: scale(2);
 }
+
+/*
+    CIRCLE TEXT
+*/
+
+.blue-circle-text
+{
+    line-height: 50px;
+    color: #000;
+    font-weight: bold;
+    font-size: 16px;
+    position: absolute;
+    top: 32%;
+    right: 30%;
+}
+
+.green-circle-text
+{
+    line-height: 50px;
+    color: #000;
+    font-weight: bold;
+    font-size: 16px;
+    position: absolute;
+    top: 32%;
+    right: 31%;
+}
+
+.red-circle-text
+{
+    line-height: 50px;
+    color: #000;
+    font-weight: bold;
+    font-size: 16px;
+    position: absolute;
+    top: 32%;
+    right: 37%;
+}
+
+.white-circle-text
+{
+    line-height: 50px;
+    color: #000;
+    font-weight: bold;
+    font-size: 16px;
+    position: absolute;
+    top: 32%;
+    right: 30%;
+}
+
+.orange-circle-text
+{
+    line-height: 50px;
+    color: #000;
+    font-weight: bold;
+    font-size: 16px;
+    position: absolute;
+    top: 32%;
+    right: 20%;
+}
+
+.pink-circle-text
+{
+    line-height: 50px;
+    color: #000;
+    font-weight: bold;
+    font-size: 16px;
+    position: absolute;
+    top: 32%;
+    right: 38%;
+}
+
+
