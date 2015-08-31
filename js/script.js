@@ -14,8 +14,7 @@ $(window).load(function (){
     //Första Cirkeln
     $('.circle-blue').delay(350).animate({
     height:'150px',
-    width:'150px',
-    'margin-left': '270px'}, 1000);
+    width:'150px'}, 1000);
 
     //Text1
     $('.blue-circle-text').delay(1700).fadeIn(600);
@@ -29,8 +28,7 @@ $(window).load(function (){
     //Andra Cirkeln
     $('.circle-green').delay(700).animate({
     height:'150px',
-    width:'150px',
-    'margin-left': '680px'}, 1000);
+    width:'150px'}, 1000);
 
     //Text2
     $('.green-circle-text').delay(2000).fadeIn(600)
@@ -44,8 +42,7 @@ $(window).load(function (){
     //Tredje Cirkeln
     $('.circle-red').delay(1250).animate({
     height:'150px',
-    width:'150px',
-    'margin-left': '270px'}, 1000);
+    width:'150px'}, 1000);
 
     //Text3
     $('.red-circle-text').delay(2500).fadeIn(600);
@@ -54,16 +51,15 @@ $(window).load(function (){
     $('.line-four').delay(1750).animate({
         height: '250px',
         width: '100%'}, 1000);
-    $('.arrow-right-white').delay(1750).fadeIn(1200)
+    $('.arrow-right-purple').delay(1750).fadeIn(1200)
 
     //Fjärde Cirkeln
-    $('.circle-white').delay(1750).animate({
+    $('.circle-purple').delay(1750).animate({
     height:'150px',
-    width:'150px',
-    'margin-left': '680px'}, 1000);
+    width:'150px'}, 1000);
 
     //Text4
-    $('.white-circle-text').delay(3000).fadeIn(600);
+    $('.purple-circle-text').delay(3000).fadeIn(600);
 
     //Femte linjen
     $('.line-five').delay(2250).animate({
@@ -74,8 +70,7 @@ $(window).load(function (){
     //Femte Cirkeln
     $('.circle-orange').delay(2250).animate({
     height:'150px',
-    width:'150px',
-    'margin-left': '270px'}, 1000);
+    width:'150px'}, 1000);
 
     //Text5
     $('.orange-circle-text').delay(3550).fadeIn(600)
@@ -89,19 +84,10 @@ $(window).load(function (){
     //Sjätte Cirkeln
     $('.circle-pink').delay(2750).animate({
     height:'150px',
-    width:'150px',
-    'margin-left': '680px'}, 1000);
+    width:'150px'}, 1000);
 
     //Text6
     $('.pink-circle-text').delay(3900).fadeIn(600)
-
-    //FLAT ICONS
-    $(".flat-icon").flatshadow({
-color: "#3498DB",
-        angle: "SE",
-            fade: false,
-        boxShadow: false
-});
 });
 
 
