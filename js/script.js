@@ -71,3 +71,5 @@ $(window).load(function (){
     height:'150px',
     width:'150px'}, 1000);
 });
+
+
