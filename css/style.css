@@ -63,7 +63,7 @@ body {
 #line-container > .line-four {
     width: 100%;
     height: 0px;
-    background-color: #ECF0F1;
+    background-color: #b86efe;
 }
 #line-container > .line-five {
     width: 100%;
@@ -120,7 +120,7 @@ body {
     display: none;
 }
 
-.arrow-right-white {
+.arrow-right-purple {
 	width: 0;
 	height: 0;
     float: right;
@@ -129,7 +129,7 @@ body {
     position: relative;
 	border-top: 7px solid transparent;
 	border-bottom: 7px solid transparent;
-	border-left: 7px solid #ECF0F1;
+	border-left: 7px solid #b86efe;
     display: none;
 }
 
@@ -186,6 +186,7 @@ body {
     -o-transform: scale(2.5);
     -ms-transform: scale(2.5);
     transform: scale(2.5);
+    margin-left: 240px;
 }
 
 .circle-green {
@@ -211,6 +212,7 @@ body {
     -o-transform: scale(2.5);
     -ms-transform: scale(2.5);
     transform: scale(2.5);
+    margin-left: 700px;
 }
 
 .circle-red {
@@ -235,14 +237,15 @@ body {
     -o-transform: scale(2.5);
     -ms-transform: scale(2.5);
     transform: scale(2.5);
+    margin-left: 240px;
 }
 
-.circle-white {
+.circle-purple {
     position: absolute;
     width: 0px;
     height: 0px;
     top: 840px;
-    background-color: #ECF0F1;
+    background-color: #b86efe;
     margin-left: 650px;
     border-radius: 200px;
     display: block;
@@ -252,13 +255,14 @@ body {
 	-ms-transition:     all 0.5s ease-in-out;
 }
 
-.circle-white:hover
+.circle-purple:hover
 {
      -webkit-transform: scale(2.5);
     -moz-transform: scale(2.5);
     -o-transform: scale(2.5);
     -ms-transform: scale(2.5);
     transform: scale(2.5);
+    margin-left: 700px;
 }
 
 .circle-orange {
@@ -283,6 +287,7 @@ body {
     -o-transform: scale(2.5);
     -ms-transform: scale(2.5);
     transform: scale(2.5);
+    margin-left: 240px;
 }
 
 .circle-pink {
@@ -307,6 +312,7 @@ body {
     -o-transform: scale(2.5);
     -ms-transform: scale(2.5);
     transform: scale(2.5);
+    margin-left: 700px;
 }
 
 /*
@@ -316,7 +322,7 @@ body {
 .blue-circle-text
 {
     line-height: 50px;
-    color: #000;
+    color: #fff;
     font-weight: bold;
     font-size: 16px;
     display: none;
@@ -343,7 +349,7 @@ body {
     left: 6%;
     position: absolute;
     display: none;
-    color: #000;
+    color: #0088c8;
 }
 
 .circle-blue:hover > .obj-text {
@@ -353,7 +359,7 @@ body {
 .green-circle-text
 {
     line-height: 50px;
-    color: #000;
+    color: #fff;
     font-weight: bold;
     font-size: 16px;
     display: none;
@@ -380,7 +386,7 @@ body {
     left: 6%;
     position: absolute;
     display: none;
-    color: #000;
+    color: #0b9a7e;
 }
 
 .circle-green:hover > .history-text {
@@ -390,7 +396,7 @@ body {
 .red-circle-text
 {
     line-height: 50px;
-    color: #000;
+    color: #fff;
     font-weight: bold;
     display: none;
     font-size: 16px;
@@ -417,17 +423,17 @@ body {
     left: 6%;
     position: absolute;
     display: none;
-    color: #000;
+    color: #803708;
 }
 
 .circle-red:hover > .rules-text {
     display: block;
 }
 
-.white-circle-text
+.purple-circle-text
 {
     line-height: 50px;
-    color: #000;
+    color: #fff;
     font-weight: bold;
     display: none;
     font-size: 16px;
@@ -440,7 +446,7 @@ body {
 	-ms-transition:     all 0.5s ease-in-out;
 }
 
-.circle-white:hover > .white-circle-text{
+.circle-purple:hover > .purple-circle-text{
     top: 0;
     right: 39%;
     font-size: 8px;
@@ -454,17 +460,17 @@ body {
     left: 6%;
     position: absolute;
     display: none;
-    color: #000;
+    color: #7b28c8;
 }
 
-.circle-white:hover > .countries-text {
+.circle-purple:hover > .countries-text {
     display: block;
 }
 
 .orange-circle-text
 {
     line-height: 50px;
-    color: #000;
+    color: #fff;
     font-weight: bold;
     display: none;
     font-size: 16px;
@@ -491,7 +497,7 @@ body {
     left: 6%;
     position: absolute;
     display: none;
-    color: #000;
+    color: #b26a03;
 }
 
 .circle-orange:hover > .champ-text {
@@ -501,7 +507,7 @@ body {
 .pink-circle-text
 {
     line-height: 50px;
-    color: #000;
+    color: #fff;
     font-weight: bold;
     display: none;
     font-size: 16px;
@@ -528,7 +534,7 @@ body {
     left: 6%;
     position: absolute;
     display: none;
-    color: #000;
+    color: #a66465;
 }
 
 .circle-pink:hover > .prize-text {
