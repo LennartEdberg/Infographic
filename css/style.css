@@ -1,16 +1,7 @@
-@font-face {
-    font-family: Droid Font;
-    src: url('fonts/DroidSerif.ttf');
-}
-@font-face {
-    font-family: Pacificot;
-    src: url('fonts/Pacifico.ttf');
-}
-
 body {
     background-color: #202832;
     text-rendering: optimizeLegibility;
-    font-family: 'Droid Font';
+    font-family: 'Pacifico', cursive;
     text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
     overflow: -moz-scrollbars-none;
 }
