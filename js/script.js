@@ -88,7 +88,6 @@ $(window).load(function (){
 
     //Text6
     $('.pink-circle-text').delay(3900).fadeIn(600)
-    
 });
 
 
