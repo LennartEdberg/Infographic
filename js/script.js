@@ -95,3 +95,5 @@ $(window).load(function (){
     $('.pink-circle-text').delay(3800).animate({
     'font-size':'16px'}, 400);
 });
+
+
