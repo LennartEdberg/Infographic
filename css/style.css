@@ -356,6 +356,20 @@ body {
     display: block;
 }
 
+.obj-img {
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    top: 26%;
+    right: 38%;
+    display: none;
+}
+
+.circle-blue:hover > .obj-img {
+    display: block;
+}
+
+
 .green-circle-text
 {
     line-height: 50px;
@@ -390,6 +404,19 @@ body {
 }
 
 .circle-green:hover > .history-text {
+    display: block;
+}
+
+.history-img {
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    top: 26%;
+    right: 38%;
+    display: none;
+}
+
+.circle-green:hover > .history-img {
     display: block;
 }
 
@@ -430,6 +457,19 @@ body {
     display: block;
 }
 
+.rules-img {
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    top: 26%;
+    right: 38%;
+    display: none;
+}
+
+.circle-red:hover > .rules-img {
+    display: block;
+}
+
 .purple-circle-text
 {
     line-height: 50px;
@@ -467,6 +507,20 @@ body {
     display: block;
 }
 
+.countries-img {
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    top: 26%;
+    right: 38%;
+    display: none;
+}
+
+.circle-purple:hover > .countries-img {
+    display: block;
+}
+
+
 .orange-circle-text
 {
     line-height: 50px;
@@ -501,6 +555,19 @@ body {
 }
 
 .circle-orange:hover > .champ-text {
+    display: block;
+}
+
+.champ-img {
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    top: 26%;
+    right: 38%;
+    display: none;
+}
+
+.circle-orange:hover > .champ-img {
     display: block;
 }
 
@@ -541,3 +608,15 @@ body {
     display: block;
 }
 
+.prize-img {
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    top: 26%;
+    right: 38%;
+    display: none;
+}
+
+.circle-pink:hover > .prize-img {
+    display: block;
+}
