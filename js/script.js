@@ -49,7 +49,7 @@ $(window).load(function (){
 
 // CIRKLAR BLIR STÖRRE VID HOVER *******************
 
-
+/*
 $(function() {
     $('span').on('mouseover', function() {
         $(this).stop().animate({
@@ -67,3 +67,4 @@ $(function() {
         }, 500);
     });
 })
+*/

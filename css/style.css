@@ -173,7 +173,21 @@ body {
     margin-left: 290px;
     border-radius: 200px;
     display: block;
+    -webkit-transition: all 0.5s ease-in-out;
+	-moz-transition:    all 0.5s ease-in-out;
+	-o-transition:      all 0.5s ease-in-out;
+	-ms-transition:     all 0.5s ease-in-out;
 }
+
+.circle-blue:hover
+{
+     -webkit-transform: scale(2);
+    -moz-transform: scale(2);
+    -o-transform: scale(2);
+    -ms-transform: scale(2);
+    transform: scale(2);
+}
+
 .circle-green {
     position: absolute;
     width: 150px;
@@ -183,7 +197,22 @@ body {
     margin-left: 650px;
     border-radius: 200px;
     display: block;
+    -webkit-transition: all 0.5s ease-in-out;
+	-moz-transition:    all 0.5s ease-in-out;
+	-o-transition:      all 0.5s ease-in-out;
+	-ms-transition:     all 0.5s ease-in-out;
 }
+
+
+.circle-green:hover
+{
+     -webkit-transform: scale(2);
+    -moz-transform: scale(2);
+    -o-transform: scale(2);
+    -ms-transform: scale(2);
+    transform: scale(2);
+}
+
 .circle-red {
     position: absolute;
     width: 150px;
@@ -193,7 +222,21 @@ body {
     margin-left: 290px;
     border-radius: 200px;
     display: block;
+    -webkit-transition: all 0.5s ease-in-out;
+	-moz-transition:    all 0.5s ease-in-out;
+	-o-transition:      all 0.5s ease-in-out;
+	-ms-transition:     all 0.5s ease-in-out;
 }
+
+.circle-red:hover
+{
+     -webkit-transform: scale(2);
+    -moz-transform: scale(2);
+    -o-transform: scale(2);
+    -ms-transform: scale(2);
+    transform: scale(2);
+}
+
 .circle-white {
     position: absolute;
     width: 150px;
@@ -203,7 +246,21 @@ body {
     margin-left: 650px;
     border-radius: 200px;
     display: block;
+    -webkit-transition: all 0.5s ease-in-out;
+	-moz-transition:    all 0.5s ease-in-out;
+	-o-transition:      all 0.5s ease-in-out;
+	-ms-transition:     all 0.5s ease-in-out;
 }
+
+.circle-white:hover
+{
+     -webkit-transform: scale(2);
+    -moz-transform: scale(2);
+    -o-transform: scale(2);
+    -ms-transform: scale(2);
+    transform: scale(2);
+}
+
 .circle-orange {
     position: absolute;
     width: 150px;
@@ -213,7 +270,21 @@ body {
     top: 1040px;
     margin-left: 290px;
     display: block;
+    -webkit-transition: all 0.5s ease-in-out;
+	-moz-transition:    all 0.5s ease-in-out;
+	-o-transition:      all 0.5s ease-in-out;
+	-ms-transition:     all 0.5s ease-in-out;
 }
+
+.circle-orange:hover
+{
+     -webkit-transform: scale(2);
+    -moz-transform: scale(2);
+    -o-transform: scale(2);
+    -ms-transform: scale(2);
+    transform: scale(2);
+}
+
 .circle-pink {
     position: absolute;
     width: 150px;
@@ -223,4 +294,17 @@ body {
     top: 1240px;
     border-radius: 200px;
     display: block;
+    -webkit-transition: all 0.5s ease-in-out;
+	-moz-transition:    all 0.5s ease-in-out;
+	-o-transition:      all 0.5s ease-in-out;
+	-ms-transition:     all 0.5s ease-in-out;
+}
+
+.circle-pink:hover
+{
+  -webkit-transform: scale(2);
+    -moz-transform: scale(2);
+    -o-transform: scale(2);
+    -ms-transform: scale(2);
+    transform: scale(2);
 }
