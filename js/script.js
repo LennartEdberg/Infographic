@@ -17,8 +17,7 @@ $(window).load(function (){
     width:'150px'}, 1000);
 
     //Text1
-    $('.blue-circle-text').delay(1450).animate({
-    'font-size':'16px'}, 400);
+    $('.blue-circle-text').delay(1700).fadeIn(600);
 
     //Andra linjen
     $('.line-two').delay(750).animate({
@@ -32,8 +31,7 @@ $(window).load(function (){
     width:'150px'}, 1000);
 
     //Text2
-    $('.green-circle-text').delay(1800).animate({
-    'font-size':'16px'}, 400);
+    $('.green-circle-text').delay(2000).fadeIn(600)
 
     //Tredje linjen
     $('.line-three').delay(1250).animate({
@@ -47,8 +45,7 @@ $(window).load(function (){
     width:'150px'}, 1000);
 
     //Text3
-    $('.red-circle-text').delay(2300).animate({
-    'font-size':'16px'}, 400);
+    $('.red-circle-text').delay(2500).fadeIn(600);
 
     //Fjärde linjen
     $('.line-four').delay(1750).animate({
@@ -62,8 +59,7 @@ $(window).load(function (){
     width:'150px'}, 1000);
 
     //Text4
-    $('.white-circle-text').delay(2850).animate({
-    'font-size':'16px'}, 400);
+    $('.white-circle-text').delay(3000).fadeIn(600);
 
     //Femte linjen
     $('.line-five').delay(2250).animate({
@@ -77,8 +73,7 @@ $(window).load(function (){
     width:'150px'}, 1000);
 
     //Text5
-    $('.orange-circle-text').delay(3300).animate({
-    'font-size':'16px'}, 400);
+    $('.orange-circle-text').delay(3550).fadeIn(600)
 
     //Sjätte linjen
     $('.line-six').delay(2750).animate({
@@ -92,8 +87,7 @@ $(window).load(function (){
     width:'150px'}, 1000);
 
     //Text6
-    $('.pink-circle-text').delay(3800).animate({
-    'font-size':'16px'}, 400);
+    $('.pink-circle-text').delay(3900).fadeIn(600)
 });
 
 
