@@ -1,14 +1,22 @@
+@font-face {
+    font-family: Droid Font;
+    src: url('fonts/DroidSerif.ttf');
+}
+@font-face {
+    font-family: Pacifico;
+    src: url('fonts/Pacifico.ttf');
+}
+
 body {
     background-color: #202832;
     text-rendering: optimizeLegibility;
     font-family: 'Droid Serif', serif;
     font-family: 'Pacifico';
+    font-family: 'Droid Font';
     overflow: -moz-scrollbars-none;
 }
 
 ::-webkit-scrollbar { display: none; }
-
-
 
 #container {
     width: 1100px;
@@ -28,6 +36,7 @@ body {
     text-align: center;
     font-size: 0px;
     line-height: 195px;
+    font-family: "Pacifico";
 }
 
 #container > #line-container {
