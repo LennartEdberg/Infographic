@@ -173,10 +173,10 @@ body {
     margin-left: 290px;
     border-radius: 200px;
     display: block;
-    -webkit-transition: all 0.5s ease-in-out;
-	-moz-transition:    all 0.5s ease-in-out;
-	-o-transition:      all 0.5s ease-in-out;
-	-ms-transition:     all 0.5s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+	-moz-transition:    all 0.3s ease-in-out;
+	-o-transition:      all 0.3s ease-in-out;
+	-ms-transition:     all 0.3s ease-in-out;
 }
 
 .circle-blue:hover
@@ -198,10 +198,10 @@ body {
     margin-left: 650px;
     border-radius: 200px;
     display: block;
-    -webkit-transition: all 0.5s ease-in-out;
-	-moz-transition:    all 0.5s ease-in-out;
-	-o-transition:      all 0.5s ease-in-out;
-	-ms-transition:     all 0.5s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+	-moz-transition:    all 0.3s ease-in-out;
+	-o-transition:      all 0.3s ease-in-out;
+	-ms-transition:     all 0.3s ease-in-out;
 }
 
 
@@ -224,10 +224,10 @@ body {
     margin-left: 290px;
     border-radius: 200px;
     display: block;
-    -webkit-transition: all 0.5s ease-in-out;
-	-moz-transition:    all 0.5s ease-in-out;
-	-o-transition:      all 0.5s ease-in-out;
-	-ms-transition:     all 0.5s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+	-moz-transition:    all 0.3s ease-in-out;
+	-o-transition:      all 0.3s ease-in-out;
+	-ms-transition:     all 0.3s ease-in-out;
 }
 
 .circle-red:hover
@@ -249,10 +249,10 @@ body {
     margin-left: 650px;
     border-radius: 200px;
     display: block;
-    -webkit-transition: all 0.5s ease-in-out;
-	-moz-transition:    all 0.5s ease-in-out;
-	-o-transition:      all 0.5s ease-in-out;
-	-ms-transition:     all 0.5s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+	-moz-transition:    all 0.3s ease-in-out;
+	-o-transition:      all 0.3s ease-in-out;
+	-ms-transition:     all 0.3s ease-in-out;
 }
 
 .circle-purple:hover
@@ -274,10 +274,10 @@ body {
     top: 1040px;
     margin-left: 290px;
     display: block;
-    -webkit-transition: all 0.5s ease-in-out;
-	-moz-transition:    all 0.5s ease-in-out;
-	-o-transition:      all 0.5s ease-in-out;
-	-ms-transition:     all 0.5s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+	-moz-transition:    all 0.3s ease-in-out;
+	-o-transition:      all 0.3s ease-in-out;
+	-ms-transition:     all 0.3s ease-in-out;
 }
 
 .circle-orange:hover
@@ -299,10 +299,10 @@ body {
     top: 1240px;
     border-radius: 200px;
     display: block;
-    -webkit-transition: all 0.5s ease-in-out;
-	-moz-transition:    all 0.5s ease-in-out;
-	-o-transition:      all 0.5s ease-in-out;
-	-ms-transition:     all 0.5s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+	-moz-transition:    all 0.3s ease-in-out;
+	-o-transition:      all 0.3s ease-in-out;
+	-ms-transition:     all 0.3s ease-in-out;
 }
 
 .circle-pink:hover
@@ -329,10 +329,10 @@ body {
     position: absolute;
     top: 32%;
     right: 30%;
-    -webkit-transition: all 0.5s ease-in-out;
-	-moz-transition:    all 0.5s ease-in-out;
-	-o-transition:      all 0.5s ease-in-out;
-	-ms-transition:     all 0.5s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+	-moz-transition:    all 0.3s ease-in-out;
+	-o-transition:      all 0.3s ease-in-out;
+	-ms-transition:     all 0.3s ease-in-out;
 }
 
 .circle-blue:hover > .blue-circle-text{
@@ -366,10 +366,10 @@ body {
     position: absolute;
     top: 32%;
     right: 31%;
-    -webkit-transition: all 0.5s ease-in-out;
-	-moz-transition:    all 0.5s ease-in-out;
-	-o-transition:      all 0.5s ease-in-out;
-	-ms-transition:     all 0.5s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+	-moz-transition:    all 0.3s ease-in-out;
+	-o-transition:      all 0.3s ease-in-out;
+	-ms-transition:     all 0.3s ease-in-out;
 }
 
 .circle-green:hover > .green-circle-text{
@@ -403,10 +403,10 @@ body {
     position: absolute;
     top: 32%;
     right: 37%;
-    -webkit-transition: all 0.5s ease-in-out;
-	-moz-transition:    all 0.5s ease-in-out;
-	-o-transition:      all 0.5s ease-in-out;
-	-ms-transition:     all 0.5s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+	-moz-transition:    all 0.3s ease-in-out;
+	-o-transition:      all 0.3s ease-in-out;
+	-ms-transition:     all 0.3s ease-in-out;
 }
 
 .circle-red:hover > .red-circle-text{
@@ -440,10 +440,10 @@ body {
     position: absolute;
     top: 32%;
     right: 30%;
-    -webkit-transition: all 0.5s ease-in-out;
-	-moz-transition:    all 0.5s ease-in-out;
-	-o-transition:      all 0.5s ease-in-out;
-	-ms-transition:     all 0.5s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+	-moz-transition:    all 0.3s ease-in-out;
+	-o-transition:      all 0.3s ease-in-out;
+	-ms-transition:     all 0.3s ease-in-out;
 }
 
 .circle-purple:hover > .purple-circle-text{
@@ -477,10 +477,10 @@ body {
     position: absolute;
     top: 32%;
     right: 20%;
-    -webkit-transition: all 0.5s ease-in-out;
-	-moz-transition:    all 0.5s ease-in-out;
-	-o-transition:      all 0.5s ease-in-out;
-	-ms-transition:     all 0.5s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+	-moz-transition:    all 0.3s ease-in-out;
+	-o-transition:      all 0.3s ease-in-out;
+	-ms-transition:     all 0.3s ease-in-out;
 }
 
 .circle-orange:hover > .orange-circle-text{
@@ -514,10 +514,10 @@ body {
     position: absolute;
     top: 32%;
     right: 38%;
-    -webkit-transition: all 0.5s ease-in-out;
-	-moz-transition:    all 0.5s ease-in-out;
-	-o-transition:      all 0.5s ease-in-out;
-	-ms-transition:     all 0.5s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+	-moz-transition:    all 0.3s ease-in-out;
+	-o-transition:      all 0.3s ease-in-out;
+	-ms-transition:     all 0.3s ease-in-out;
 }
 
 .circle-pink:hover > .pink-circle-text{
