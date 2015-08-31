@@ -14,13 +14,6 @@ body {
     font-family: 'Droid Serif', serif;
     font-family: 'Pacifico';
     font-family: 'Droid Font';
-    
-body {
-    background-color: #202832;
-    text-rendering: optimizeLegibility;
-    font-family: 'Pacifico', cursive;
-    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
-    overflow: -moz-scrollbars-none;
 }
 
 ::-webkit-scrollbar { display: none; }
