@@ -2,6 +2,7 @@ body {
     background-color: #202832;
     text-rendering: optimizeLegibility;
     overflow: -moz-scrollbars-none;
+    font-family: 'Droid Serif', serif;
 }
 
 ::-webkit-scrollbar { display: none; }
@@ -356,11 +357,10 @@ body {
 }
 
 .obj-img {
-    width: 35px;
-    height: 35px;
+    width: 40px;
     position: absolute;
-    top: 26%;
-    right: 38%;
+    top: 30%;
+    right: 37%;
     display: none;
 }
 
@@ -459,11 +459,10 @@ body {
 }
 
 .rules-img {
-    width: 35px;
-    height: 35px;
+    width: 30px;
     position: absolute;
-    top: 26%;
-    right: 38%;
+    top: 24%;
+    right: 40%;
     display: none;
 }
 
@@ -547,7 +546,7 @@ body {
 }
 
 .champ-text {
-    font-size: 5px;
+    font-size: 6px;
     width: 130px;
     height: 130px;
     top: 50%;
@@ -629,5 +628,4 @@ body {
 .blue-circle-text, .green-circle-text,
 .purple-circle-text, .orange-circle-text,
 .pink-circle-text, .red-circle-text {
-    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
 }
