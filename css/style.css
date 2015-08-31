@@ -179,6 +179,14 @@ body {
 	-ms-transition:     all 0.5s ease-in-out;
 }
 
+.blue-circle-text
+{
+    line-height: 16px;
+        color: #dddddd;
+    font-weight: bold;
+    font-size: 16px;
+}
+
 .circle-blue:hover
 {
      -webkit-transform: scale(2);
