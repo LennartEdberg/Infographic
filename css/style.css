@@ -2,11 +2,12 @@ body {
     background-color: #202832;
     text-rendering: optimizeLegibility;
     font-family: 'Droid Serif', serif;
-    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+    font-family: 'Pacifico';
     overflow: -moz-scrollbars-none;
 }
 
 ::-webkit-scrollbar { display: none; }
+
 
 
 #container {
@@ -27,7 +28,6 @@ body {
     text-align: center;
     font-size: 0px;
     line-height: 195px;
-    font-family: 'Pacifico', cursive;
 }
 
 #container > #line-container {
@@ -334,7 +334,7 @@ body {
 	-moz-transition:    all 0.3s ease-in-out;
 	-o-transition:      all 0.3s ease-in-out;
 	-ms-transition:     all 0.3s ease-in-out;
-    font-family: 'Pacifico', cursive;
+    font-family: "Pacifico", cursive;
 }
 
 .circle-blue:hover > .blue-circle-text{
@@ -535,7 +535,7 @@ body {
     font-size: 18px;
     position: absolute;
     top: 32%;
-    right: 20%;
+    right: 17%;
     -webkit-transition: all 0.3s ease-in-out;
 	-moz-transition:    all 0.3s ease-in-out;
 	-o-transition:      all 0.3s ease-in-out;
@@ -550,7 +550,7 @@ body {
 }
 
 .champ-text {
-    font-size: 7px;
+    font-size: 5px;
     width: 130px;
     height: 130px;
     top: 50%;
@@ -627,4 +627,10 @@ body {
 
 .circle-pink:hover > .prize-img {
     display: block;
+}
+
+.blue-circle-text, .green-circle-text,
+.purple-circle-text, .orange-circle-text,
+.pink-circle-text, .red-circle-text {
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
 }
