@@ -5,6 +5,13 @@ body {
     font-family: 'Anton', sans-serif;
 }
 
+@font-face {
+font-family: 'Pacifico';
+src:
+    local('Pacifico'),
+    url('Pacifico.ttf');
+}
+
 ::-webkit-scrollbar { display: none; }
 
 #container {
