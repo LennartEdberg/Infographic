@@ -2,7 +2,7 @@ body {
     background-color: #202832;
     text-rendering: optimizeLegibility;
     overflow: -moz-scrollbars-none;
-    font-family: 'Droid Serif', serif;
+    font-family: 'Anton', sans-serif;
 }
 
 ::-webkit-scrollbar { display: none; }
@@ -552,7 +552,7 @@ body {
 
 
 .champ-text {
-    font-size: 5px;
+    font-size: 6px;
     width: 100%;
     max-width: 100px;
     height: 130px;
