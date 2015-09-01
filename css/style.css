@@ -12,6 +12,13 @@ src:
     url('Pacifico.ttf');
 }
 
+@font-face {
+font-family: 'Anton';
+src:
+    local('Anton'),
+    url('Anton.ttf');
+}
+
 ::-webkit-scrollbar { display: none; }
 
 #container {
