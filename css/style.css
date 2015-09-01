@@ -574,7 +574,7 @@ src:
     left: 16%;
     position: absolute;
     display: none;
-    color: #b26a03;
+    color: #955802;
 }
 
 .circle-orange:hover > .champ-text {
@@ -626,7 +626,7 @@ src:
     left: 16%;
     position: absolute;
     display: none;
-    color: #a66465;
+    color: #905354;
 }
 
 .circle-pink:hover > .prize-text {
